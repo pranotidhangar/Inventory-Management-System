@@ -1,0 +1,17 @@
+/target/
+
+/.idea/
+
+/*.iml
+
+*.class
+
+*.log
+
+*.jar
+
+*.war
+
+/.vscode/
+
+.DS_Store
