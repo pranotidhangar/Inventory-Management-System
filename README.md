@@ -12,10 +12,10 @@ The **Inventory Management System** is a web-based application designed to help 
 - Generate reports for analysis  
 
  🛠️ Technologies Used
-- **Backend**: Java Spring Boot  
-- **Frontend**: HTML, CSS, JavaScript (or React, if you used it)  
-- **Database**: MySQL  
-- **Tools**: Maven/Gradle, Git, GitHub  
+- Backend: Java Spring Boot  
+- Frontend: HTML, CSS, JavaScript,JSP
+- Database: MySQL,Hibernate  
+- Tools: Spting Suite Tools, Git, GitHub  
 
 ⚙️ Installation
 1. Clone the repository:
